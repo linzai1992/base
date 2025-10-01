@@ -1,5 +1,5 @@
 # base
-**Author:** yunlin
+**Author:** yunlinc
 
 封装了跨平台的c++基础代码库（window，mac），部分代码来源于开源的chromium项目。
 详细使用方法参照代码注释，已经比较详细了，这里只列出比较重要的部分。
